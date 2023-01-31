@@ -1,0 +1,51 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+h1 {
+    color: blueviolet;
+    
+}
+div {
+    background-color: rgba(0, 255, 255, 0);
+    
+
+}
+body {
+    background-image: url(pexels-jeremy-bishop-2923595.jpg);
+    background-repeat: no-repeat;
+    /* background-position: center top; */
+    background-size: cover;
+
+    
+}
+table {
+    background-color: rgba(127, 255, 212, 0.027);
+    margin: auto;
+}
+#info {
+    display: flex;
+    flex-direction: column;
+    color: blueviolet;
+    justify-content: center;
+}
+.edu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: blue;
+}
+#comm {
+    display: flex;
+    flex-direction: column;
+    color: violet;
+}
+.skills {
+    display: flex;
+    flex-direction: column;
+    color: brown;
+}
+#courses {
+    color: coral;
+    
+}
